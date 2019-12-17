@@ -1,7 +1,7 @@
 # Crear cuenta en GitHub
 
-Para registrarnos como usuarios necesitamos una cuenta de correo. Puede ser una buena idea crear previamente 
-una nueva para no mezclar estas cosas con nuestro correo personal.
+>Para registrarnos como usuarios necesitamos una cuenta de correo. Puede ser una buena idea crear previamente 
+>una nueva para no mezclar estas cosas con nuestro correo personal.
 
 Seguidamente, en la página inicial de GitHub veremos dos enlaces:
 
