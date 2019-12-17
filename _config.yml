@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Ejemplo de utilización de Github Pages
 description: Esto es un ejemplo de como se puede utilizar Github para elborar un curso MOOC.
-logo: ./imagenes/logo.jpg
+logo: ./imagenes/octocat.png
