@@ -10,3 +10,6 @@ Seguidamente, en la página inicial de GitHub veremos dos enlaces:
 
 Pulsamos en el enlace `[Sign_up]`, o bien introducimos directamente nuestras credenciales en el formulario que se 
 facilita en la página principal, nuevo nombre de usuario, e-mail y la contraseña que queremos establecer.
+![Logo Alta Github](./imagenes/GitHub002.png)
+
+[Volver a página principal](README.md)
