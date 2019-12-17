@@ -2,9 +2,9 @@
 
 Contenido disponible en [dpnd.github.io/reto3/](https://dpnd.github.io./reto3/)
 
-## Contenido
+## Indice
 1. ¿Qué es Github?
-    - Alta de usuario.
+    	- Alta de usuario.
 	- Creando repositorios.
 2. Creando el sitio web.
 	- Adaptando el tema.
